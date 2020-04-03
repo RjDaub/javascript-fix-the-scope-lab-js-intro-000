@@ -36,4 +36,4 @@ function funkyFunction() {
   return "FUNKY!"
 
 }
-return theFunk();
+return theFunk
